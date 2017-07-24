@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28A5FC621F26862500B62F02 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A5FC611F26862500B62F02 /* ShareViewController.swift */; };
 		687509701A4E74F300E8CF09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6875096F1A4E74F300E8CF09 /* AppDelegate.swift */; };
 		687509721A4E74F300E8CF09 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687509711A4E74F300E8CF09 /* MasterViewController.swift */; };
 		687509771A4E74F300E8CF09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 687509751A4E74F300E8CF09 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		28A5FC611F26862500B62F02 /* ShareViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareViewController.swift; sourceTree = "<group>"; };
 		6875096A1A4E74F300E8CF09 /* CustomUITableViewCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomUITableViewCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6875096E1A4E74F300E8CF09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6875096F1A4E74F300E8CF09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				687509781A4E74F300E8CF09 /* Images.xcassets */,
 				6875097A1A4E74F300E8CF09 /* LaunchScreen.xib */,
 				6875096D1A4E74F300E8CF09 /* Supporting Files */,
+				28A5FC611F26862500B62F02 /* ShareViewController.swift */,
 			);
 			path = CustomUITableViewCell;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28A5FC621F26862500B62F02 /* ShareViewController.swift in Sources */,
 				687509721A4E74F300E8CF09 /* MasterViewController.swift in Sources */,
 				687509701A4E74F300E8CF09 /* AppDelegate.swift in Sources */,
 			);
